@@ -7,6 +7,12 @@ This is a CS 180 Project presented by Masayuki Inukai and Arturo Miguel Saquilay
 - final_dataset.csv found in https://drive.google.com/file/d/18lZyHHdRTaXNK_jwWwh9Y9XW2TLp8WcJ/view?usp=drive_link
   Note: dataset was formed by combining training.csv and testing.csv, which originated from this Kaggle dataset (https://www.kaggle.com/datasets/hemanthpingali/phishing-url/data) made by Hemanth Pingali
 
+## Resulting Model
+- The model can be found in this link (https://drive.google.com/file/d/1bmdBLZwr9uHlCrHUvrABbiGAnmjkDxzZ/view?usp=drive_link)
+
+## Processed Dataset
+- final_dataset_scaled.csv found in https://drive.google.com/file/d/1EtHMBSXZ8Ld6B86GLVlugMlX0JOwMYXa/view?usp=drive_link
+
 ## Code Structure
 
 ### Data Preprocessing
