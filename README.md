@@ -33,3 +33,10 @@ This is a CS 180 Project presented by Masayuki Inukai and Arturo Miguel Saquilay
 
 - Declare parameters
 - Use `GridSearchCV` to tune the model
+
+## How to run code
+- Download .zip file
+- Open terminal
+- Go to root folder of .zip file
+- Open models folder
+- Run detect-phishing-website.py
